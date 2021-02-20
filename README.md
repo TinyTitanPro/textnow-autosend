@@ -13,7 +13,7 @@
     * TEXTNOW_RECIPIENT
     * TEXTNOW_MESSAGE
 3.  Change actions permissions to allow all actions
-4.  Done, it will every hour trigger autosend action
+4.  Done, it will every hour trigger autosend action.
 
 ### 2. Server Side
 
